@@ -11,6 +11,8 @@ Installation
 To hjalp-enable your code add '-include("hjalp/include/hjalp.hrl")' to your source.
 hjalp will take care of the rest!
 
+Example hjalp session: https://gist.github.com/3973703
+
 NOTE: hjalp is extremely dodgy proof-of-concept quality code. Guaranteed
 to explode on unexpected inputs, set your code on fire, and abduct your cat.
 
